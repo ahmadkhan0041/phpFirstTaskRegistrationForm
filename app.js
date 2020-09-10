@@ -6,8 +6,8 @@ function validation(){
     var userAdd = document.getElementById('inputAddress').value;
     var firstPass = document.getElementById('pass_1').value;
     var secondPass = document.getElementById('pass_2').value;
-    var filepath = document.getElementById('image').value;
-    var targetPlace = document.getElementsByName('image').value;
+    var filepath = document.getElementById('pic').value;
+    // var targetPlace = document.getElementsByName('pic').value;
 
 
     
